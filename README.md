@@ -44,11 +44,13 @@
 
 ### ✨ Highlight Projects
 
-- [**Gazetteer – Country Profiling App**](https://github.com/rufaro-ndhlovu/RufaroNdhlovu)  
+- [**Gazetteer – Country Profiling App**]([https://github.com/rufaro-ndhlovu/RufaroNdhlovu](https://rufarondhlovu.co.uk/project1/))  
   A mobile-first app that uses Geonames and OpenWeather APIs to display country info, demographics, and weather on an interactive map. Built with HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, and Leaflet.
 
-- [**Company Directory – Personnel Management System**](https://github.com/rufaro-ndhlovu/RufaroNdhlovu)  
+- [**Company Directory – Personnel Management System**]([https://github.com/rufaro-ndhlovu/RufaroNdhlovu](https://rufarondhlovu.co.uk/project2/))  
   A full-stack CRUD application for managing company personnel data. Built using MySQL, PHP, Bootstrap, JavaScript, and jQuery with strong validation and usability standards. Includes sign-off documentation for real-world use case.
+
+To view the repository for the projects above, please email for access. 
 
 ---
 
