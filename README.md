@@ -1,16 +1,15 @@
 <h1 align="center">Hi, I'm Rufaro Ndhlovu! 👋</h1>
-<p align="center">Junior Full-Stack Developer | Lover of Clean Code & Clever UI | Always Learning</p>
+<p align="center">Junior Front-End Developer | Lover of Clean Code & Clever UI | Always Learning</p>
 
 ---
 
 ### 👩🏾‍💻 About Me
 
-- Recently completed a full-stack coding traineeship
+- I completed a full-stack developer traineeship by IT Career Switch in December 2024.
 - Built real-world projects using HTML, CSS, JavaScript, PHP, Bootstrap, Leaflet, and various APIs
 - Strong background in problem-solving, research, and organization
 - Passionate about responsive design, clean UI, and solving real problems through code
--Known for being detail-oriented, curious, and great at working across teams
-- Always upskilling—currently focused on deepening React and full-stack best practices
+- Known for being detail-oriented, curious, and great at working across teams
 
 ---
 
@@ -45,7 +44,7 @@
 ### ✨ Highlight Projects
 
 - [**Gazetteer – Country Profiling App**](https://github.com/rufaro-ndhlovu/RufaroNdhlovu)  
-  A mobile-first app that uses Geonames and OpenWeather APIs to display country info, demographics, and weather on an interactive map. Built with HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, and Leaflet.
+  A mobile-first app that uses various APIs to display country info, demographics, and weather information as well as Wikipedia and News information. This is displayed on an interactive map and was built using HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, and Leaflet.
 
 - [**Company Directory – Personnel Management System**](https://github.com/rufaro-ndhlovu/RufaroNdhlovu)  
   A full-stack CRUD application for managing company personnel data. Built using MySQL, PHP, Bootstrap, JavaScript, and jQuery with strong validation and usability standards. Includes sign-off documentation for real-world use case.
@@ -58,7 +57,6 @@ To view the repository for the projects above, please email for access.
 
 - React (hooks, component architecture, state management)
 - Building accessible and inclusive UIs
-- Optimizing back-end and database queries for performance
 
 ---
 
