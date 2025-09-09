@@ -54,7 +54,7 @@
 - [**Company Directory – Personnel Management System (Version 1.0)**](https://github.com/rufaro-ndhlovu/RufaroNdhlovu)  
   A full-stack CRUD app for managing company personnel data. Built with **MySQL, PHP, Bootstrap, JavaScript, and jQuery**. Strong validation, usability standards, and real-world sign-off documentation.
 
-- [**Company Directory – Rebuild in Progress**](https://github.com/rufaro-ndhlovu/RufaroNdhlovu)  
+- [**Company Directory – Rebuild in Progress**](https://github.com/rufaro-ndhlovu/employee-directory)  
   Rebuilding the original app using **React, Next.js, TypeScript, and Firebase**. Focused on **component-based architecture, state management, and real-time data handling**, while improving **UI, UX, and maintainability**.
 
 > To view the repositories for the projects above, please email for access.  
